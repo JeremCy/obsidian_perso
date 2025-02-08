@@ -45,7 +45,7 @@
   "01-Resources/GITHUB action.md": "LiGithub",
   "01-Resources/Onboarding.md": "LiHome",
   "01-Areas": "LiPackage",
-  "03-Resources": "LiBookText",
-  "04-Projects": "LiCode2",
-  "99-Templates": "LiMoreHorizontal"
+  "99-Templates": "LiMoreHorizontal",
+  "02-Resources": "LiBookText",
+  "03-Projects": "LiCode2"
 }

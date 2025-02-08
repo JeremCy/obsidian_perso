@@ -29,6 +29,7 @@
       {
         "id": "6ff979b3d8357082",
         "type": "tabs",
+        "dimension": 60.817307692307686,
         "children": [
           {
             "id": "b8732a02244f6784",
@@ -71,10 +72,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "dd2bb3be91ccf7b5",
+        "type": "tabs",
+        "dimension": 39.18269230769231,
+        "children": [
+          {
+            "id": "b73246683876caa5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299
   },
   "right": {
     "id": "e0f3122de4a80e90",
@@ -143,16 +161,6 @@
             }
           },
           {
-            "id": "b73246683876caa5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "f307fd6cf5a5d469",
             "type": "leaf",
             "state": {
@@ -163,36 +171,37 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false,
+      "templates:Insert template": false,
+      "obsidian-git:Open Git source control": true,
+      "obsidian-importer:Open Importer": true,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "templater-obsidian:Templater": true
     }
   },
-  "active": "b8732a02244f6784",
+  "active": "87422331206beab5",
   "lastOpenFiles": [
     "99-Templates/(TEMPLATE) Daily.md",
     "99-Templates/(TEMPLATE) Daily (Vanilla).md",
     "(TEMPLATE) Daily.md",
     "(TEMPLATE) Daily (Vanilla).md",
     "99-Templates",
-    "04-Projects",
-    "03-Resources",
+    "03-Projects",
+    "02-Resources",
     "01-Areas",
     "00-Daily",
     "obsidian_perso/Untitled.md",
