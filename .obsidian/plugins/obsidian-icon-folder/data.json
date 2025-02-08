@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiMoreHorizontal",
+      "LiCode2",
+      "LiBookText",
+      "LiCalendar",
+      "LiHome"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "02-Projects": "LiCode2",
+  "03-Templates": "LiBookTemplate",
+  "01-Resources": "LiBookText",
+  "04-Areas": "LiPackage",
+  "00-Daily": "LiCalendar",
+  "01-Resources/Code Reviews.md": "LiCode2",
+  "01-Resources/Docker.md": "🐳",
+  "01-Resources/GIT.md": "LiGithub",
+  "01-Resources/GITHUB action.md": "LiGithub",
+  "01-Resources/Onboarding.md": "LiHome",
+  "01-Areas": "LiPackage",
+  "03-Resources": "LiBookText",
+  "04-Projects": "LiCode2",
+  "99-Templates": "LiMoreHorizontal"
+}

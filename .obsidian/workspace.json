@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "2bf2bd2237e57171",
+    "type": "split",
+    "children": [
+      {
+        "id": "6008fd9554554e13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87422331206beab5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03b15599185871b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ff979b3d8357082",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8732a02244f6784",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f08ffbb1baead983",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05cd2df640bd7217",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0f3122de4a80e90",
+    "type": "split",
+    "children": [
+      {
+        "id": "956a0033c653c963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2cd00165e036c34",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "7158f60d154385cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "03c56e2a2d7d3f0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5e95732d4a4995b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "b73246683876caa5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f307fd6cf5a5d469",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 276.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "b8732a02244f6784",
+  "lastOpenFiles": [
+    "99-Templates/(TEMPLATE) Daily.md",
+    "99-Templates/(TEMPLATE) Daily (Vanilla).md",
+    "(TEMPLATE) Daily.md",
+    "(TEMPLATE) Daily (Vanilla).md",
+    "99-Templates",
+    "04-Projects",
+    "03-Resources",
+    "01-Areas",
+    "00-Daily",
+    "obsidian_perso/Untitled.md",
+    "obsidian_perso/Untitled.canvas",
+    "obsidian_perso/Untitled Kanban.md",
+    "obsidian_perso/Job Applications/Applications/troov.md",
+    "obsidian_perso/Job Applications/Applications/skeepit.md",
+    "obsidian_perso/Job Applications/Applications/Vulcain.md",
+    "obsidian_perso/Job Applications/Applications/Untitled.md",
+    "obsidian_perso/Job Applications/Applications/Unlatch.md",
+    "obsidian_perso/Job Applications/Applications/Sopra Steria.md",
+    "obsidian_perso/Job Applications/Applications/Settlesweet.md",
+    "obsidian_perso/Job Applications/Applications/Samsic Emploi.md",
+    "obsidian_perso/Job Applications/Applications/SUEZ.md",
+    "obsidian_perso/Job Applications/Applications/SQORUS.md",
+    "obsidian_perso/Job Applications/Applications/SECURINFOR.md",
+    "obsidian_perso/Job Applications/Applications/New Role.md",
+    "obsidian_perso/Job Applications/Applications/Nefture.md",
+    "obsidian_perso/Job Applications/Applications/Kawarizmi SAS.md",
+    "obsidian_perso/Job Applications/Applications/IXblue.md",
+    "obsidian_perso/Job Applications/Applications/Hager Group.md",
+    "obsidian_perso/Job Applications/Applications/Global affluence.md",
+    "obsidian_perso/Job Applications/Applications/Fleet.md",
+    "obsidian_perso/Job Applications/Applications/Devoteam.md",
+    "obsidian_perso/Job Applications/Applications/Darty-fnac.md",
+    "obsidian_perso/Job Applications/Applications",
+    "obsidian_perso/Job Applications",
+    "obsidian_perso/Jeremie_Cyrille_(2).pdf",
+    "obsidian_perso/Excalidraw",
+    "obsidian_perso/Apart hunt",
+    "vault/Untitled.canvas"
+  ]
+}
