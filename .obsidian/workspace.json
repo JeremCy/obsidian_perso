@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "2bf2bd2237e57171",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "9c18b542c2f3dc5a",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "0ce8e5adeeea6a0b",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -203,8 +203,12 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "0ce8e5adeeea6a0b",
+  "active": "b8732a02244f6784",
   "lastOpenFiles": [
+    "00-Daily/20252702/09",
+    "00-Daily/20252702",
+    "00-Daily/20252602/09",
+    "00-Daily/20252602",
     "99-Templates/(TEMPLATE) Daily (Vanilla).md",
     "99-Templates/(TEMPLATE) Daily.md",
     "(TEMPLATE) Daily.md",
@@ -236,12 +240,8 @@
     "obsidian_perso/Job Applications/Applications/Global affluence.md",
     "obsidian_perso/Job Applications/Applications/Fleet.md",
     "obsidian_perso/Job Applications/Applications/Devoteam.md",
-    "obsidian_perso/Job Applications/Applications/Darty-fnac.md",
     "obsidian_perso/Job Applications/Applications",
     "obsidian_perso/Job Applications",
-    "obsidian_perso/Jeremie_Cyrille_(2).pdf",
-    "obsidian_perso/Excalidraw",
-    "obsidian_perso/Apart hunt",
     "vault/Untitled.canvas"
   ]
 }
