@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6008fd9554554e13",
+        "id": "9c18b542c2f3dc5a",
         "type": "tabs",
         "children": [
           {
-            "id": "87422331206beab5",
+            "id": "0ce8e5adeeea6a0b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -29,7 +29,6 @@
       {
         "id": "6ff979b3d8357082",
         "type": "tabs",
-        "dimension": 60.817307692307686,
         "children": [
           {
             "id": "b8732a02244f6784",
@@ -72,23 +71,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "dd2bb3be91ccf7b5",
-        "type": "tabs",
-        "dimension": 39.18269230769231,
-        "children": [
-          {
-            "id": "b73246683876caa5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -101,6 +83,7 @@
       {
         "id": "956a0033c653c963",
         "type": "tabs",
+        "dimension": 63.58447488584474,
         "children": [
           {
             "id": "f2cd00165e036c34",
@@ -169,23 +152,50 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b73246683876caa5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "c9b1001ae8c23855",
+        "type": "tabs",
+        "dimension": 36.41552511415525,
+        "children": [
+          {
+            "id": "87422331206beab5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 313
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
       "daily-notes:Open today's daily note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
-      "graph:Open graph view": false,
-      "command-palette:Open command palette": false,
+      "command-palette:Open command palette": true,
       "templates:Insert template": false,
       "obsidian-git:Open Git source control": true,
       "obsidian-importer:Open Importer": true,
@@ -193,10 +203,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "87422331206beab5",
+  "active": "0ce8e5adeeea6a0b",
   "lastOpenFiles": [
-    "99-Templates/(TEMPLATE) Daily.md",
     "99-Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99-Templates/(TEMPLATE) Daily.md",
     "(TEMPLATE) Daily.md",
     "(TEMPLATE) Daily (Vanilla).md",
     "99-Templates",
