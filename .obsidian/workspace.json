@@ -149,8 +149,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -189,18 +189,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "homepage:Open homepage": false,
+      "bases:Create new base": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": true,
       "templates:Insert template": false,
-      "obsidian-git:Open Git source control": true,
-      "obsidian-importer:Open Importer": true,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-importer:Open Importer": false,
       "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": true
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "e7a7b303c61786dc",
