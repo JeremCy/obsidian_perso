@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "2025-11-17.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "2025-11-17"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 200
   },
   "right": {
     "id": "e0f3122de4a80e90",
@@ -208,6 +210,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "astro-jelly.jpg",
     "00-Daily/20254002/09",
     "00-Daily/20254002",
     "00-Daily/20253402/09",
@@ -222,7 +225,6 @@
     "99-Templates/(TEMPLATE) Daily.md",
     "(TEMPLATE) Daily.md",
     "(TEMPLATE) Daily (Vanilla).md",
-    "99-Templates",
     "obsidian_perso/Untitled.md",
     "obsidian_perso/Untitled.canvas",
     "obsidian_perso/Untitled Kanban.md",
