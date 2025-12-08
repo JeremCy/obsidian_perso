@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e46fc4cfb058d9b3",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "6f93febf8422be6f",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -204,7 +204,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b8732a02244f6784",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "2025-11-17.md",
     "astro-jelly.jpg",
