@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e46fc4cfb058d9b3",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "6f93febf8422be6f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -206,7 +204,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "b8732a02244f6784",
   "lastOpenFiles": [
     "2025-11-17.md",
     "astro-jelly.jpg",
@@ -245,7 +243,6 @@
     "obsidian_perso/Job Applications/Applications/Hager Group.md",
     "obsidian_perso/Job Applications/Applications/Global affluence.md",
     "obsidian_perso/Job Applications/Applications/Fleet.md",
-    "obsidian_perso/Job Applications/Applications/Devoteam.md",
     "vault/Untitled.canvas"
   ]
 }
