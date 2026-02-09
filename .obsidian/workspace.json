@@ -11,10 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-09 13.20.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-09 13.20.49.excalidraw"
             }
           }
         ]
@@ -206,6 +208,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-02-09 13.20.49.excalidraw.md",
+    "Excalidraw",
     "2025-12-12.md",
     "2025-11-17.md",
     "astro-jelly.jpg",
@@ -218,7 +222,6 @@
     "00-Daily/20252702/09",
     "00-Daily/20252702",
     "00-Daily/20252602/09",
-    "00-Daily/20252602",
     "99-Templates/(TEMPLATE) Daily (Vanilla).md",
     "99-Templates/(TEMPLATE) Daily.md",
     "(TEMPLATE) Daily.md",
@@ -243,7 +246,6 @@
     "obsidian_perso/Job Applications/Applications/IXblue.md",
     "obsidian_perso/Job Applications/Applications/Hager Group.md",
     "obsidian_perso/Job Applications/Applications/Global affluence.md",
-    "obsidian_perso/Job Applications/Applications/Fleet.md",
     "vault/Untitled.canvas"
   ]
 }
