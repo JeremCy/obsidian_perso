@@ -11,15 +11,34 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2026-02-09 13.20.49.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-09 13.20.49.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          },
+          {
+            "id": "645ab6dae4f821a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
+            }
+          },
+          {
+            "id": "01da1c84e35e0fbc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nouvel onglet"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,8 +170,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -164,9 +183,33 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "d29558bc746eba6e",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "Notes de bas de page"
+            }
+          },
+          {
+            "id": "835b396d46c325d5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "c9b1001ae8c23855",
@@ -191,26 +234,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false,
+      "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "bases:Créer une nouvelle base": false,
+      "obsidian-kanban:Create new board": false,
+      "switcher:Ouvrir le sélecteur rapide": true,
+      "graph:Ouvrir la vue graphique": true,
+      "canvas:Créer une nouvelle toile": false,
+      "templates:Insérer le modèle": true,
+      "command-palette:Ouvrir la palette de commandes": true,
+      "obsidian-importer:Open Importer": true,
+      "obsidian-git:Open Git source control": true,
+      "zk-prefixer:Créer une nouvelle note unique": true,
+      "markdown-importer:Ouvrir l'importateur Markdown": true
     }
   },
-  "active": "8b4205c26e11ae38",
+  "active": "f307fd6cf5a5d469",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-02-09 13.20.49.excalidraw.md",
-    "Excalidraw",
+    "99-Templates/(TEMPLATE) Daily (Vanilla).md",
+    "99-Templates/(TEMPLATE) Daily.md",
     "2025-12-12.md",
+    "Excalidraw",
     "2025-11-17.md",
     "astro-jelly.jpg",
     "00-Daily/20254002/09",
@@ -222,8 +269,6 @@
     "00-Daily/20252702/09",
     "00-Daily/20252702",
     "00-Daily/20252602/09",
-    "99-Templates/(TEMPLATE) Daily (Vanilla).md",
-    "99-Templates/(TEMPLATE) Daily.md",
     "(TEMPLATE) Daily.md",
     "(TEMPLATE) Daily (Vanilla).md",
     "obsidian_perso/Untitled.md",

@@ -1,11 +1,12 @@
 {
   "monospaceFontFamily": "MesloLGL Nerd Font Mono",
-  "cssTheme": "Tokyo Night",
-  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "theme": "system",
   "translucency": false,
   "enabledCssSnippets": [
     "Colored Sidebar Items",
     "Daily Note Themes",
     "General_Tweaks"
-  ]
+  ],
+  "accentColor": "#aa8888"
 }
